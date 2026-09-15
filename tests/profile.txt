@@ -1,0 +1,3 @@
+# shroud profile: glob = spec
+compute* = shroud;virtualize=1;mba=1;bpred=1
+main = shroud;strings=1
